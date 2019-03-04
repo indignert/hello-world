@@ -1,0 +1,10 @@
+{
+	"@context" : {
+    "title" : "http://www.schema.org/title",
+    "description" : {
+      "@id" : "http://www.schema.org/description"
+    },
+    "type" : "http://www.schema.org/type",
+    "pattern" : "http://www.schema.org/pattern"
+  }
+}
